@@ -25,11 +25,11 @@ str(milsa)
 #I Funcionario I Quantitativa discreta I
 #I Est.civil   I Qualitativa nominal   I
 #I Inst	       I Qualitativa ordinal   I
-#I Filhos	   I Quantitativa discreta I 
+#I Filhos	     I Quantitativa discreta I 
 #I Salario	   I Quantitativa contínua I
 #I Anos	       I Quantitativa discreta I
 #I Meses       I Quantitativa discreta I
-#I Regiao	   I Qualitativa nominal   I
+#I Regiao	     I Qualitativa nominal   I
 #I-------------I-----------------------I
 
 #Análise univariada
