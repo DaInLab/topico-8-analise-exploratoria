@@ -3,8 +3,10 @@ title: "Estatística Básica"
 author: "Wilton de O. Bussab e Pedro A. Morettin"
 date: "11 jul 2017"
 output:
+  word_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 # Capítulo 1: Introdução

@@ -507,7 +507,7 @@ load(url(description = "https://www.ime.usp.br/~pam/dados.RData"))
 #cd_mercado <- read.table("cd-mercado.csv",header=TRUE,skip=4,sep=";",dec=",") # Leitura dos dados
 #cd_veiculos <- read.table("cd-veiculos.csv",header=TRUE,skip=4,sep=";",dec=",") # Leitura dos dados
 #cd_municipios<-read.table("cd-municipios.csv",header=TRUE,skip=4,sep=";",dec=",")
-tab2_1<-read.table("tabela2_1.csv", dec=",", sep=";",header=TRUE)
+#tab2_1<-read.table("tabela2_1.csv", dec=",", sep=";",header=TRUE)
 attach(tab2_1)
 dureza<-c(53,70.2,84.3,69.5,77.8,87.5,53.4,82.5,67.3,54.1,
           70.5,71.4,95.4,51.1,74.4,55.7,63.5,85.8,53.5,64.3,
